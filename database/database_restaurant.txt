@@ -1,0 +1,15 @@
+Restaurant A
+Japanese Restaurant
+Sushi, Sashimi, Udon
+Restaurant B
+Italian Restaurant
+Pasta, Spaghetti
+Restaurant C
+Chinese Restaurant
+Dim sum, Noodles
+Restaurant D
+Korean Restaurant
+Kimchi, Beef BBQ
+Restaurant E
+Fast Food Restaurant
+Hamburger, Fries

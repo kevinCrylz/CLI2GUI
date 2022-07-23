@@ -1,0 +1,14 @@
+Ocean Theatre
+9 13
+Whiskers Theatre
+28 13
+Pacific Pier
+10 16
+Panda Village
+22 19
+South Pole Spectacular
+16 14
+Amazing Bird Theatre
+33 17
+Aqua City Lagoon
+18 17

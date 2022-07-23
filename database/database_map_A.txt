@@ -1,0 +1,12 @@
+Cable Car
+47 15
+Mine Train
+67 13
+Raging River
+58 17
+Hair Raiser
+52 20
+Whirly Bird
+71 17
+The Abyss
+61 20
